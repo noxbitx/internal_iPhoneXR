@@ -27,7 +27,7 @@ The goal is to experiment with MobileGestalt structure rebuilding and explore po
 
 ## Key Findings
 - Device missing: `MobileGestalt.plist`, `Activation_Record.plist`, `Factory_Ticket.plist`.
-- Displays **"Need to Hacktivate?"** screen — internal configuration confirmed.
+- Displays **"Need to Hacktivate?"** log — internal configuration confirmed.
 - Activation not possible via PurpleRestore without valid MobileGestalt and activation data.
 - Shortcuts tricks used to gain partial filesystem access.
 
