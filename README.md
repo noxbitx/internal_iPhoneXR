@@ -9,11 +9,11 @@ Experimental MobileGestalt rebuild and internal device restoration project. Reve
 - [x] Project Started
 - [x] Test Unit Confirmed (internal SEP-configured iPhone XR)
 - [x] Deep File Analysis (MobileGestalt / Activation_Record exploration)
-- [ ] A12 Exploit Research (early stage)
-- [ ] MobileGestalt Rebuild Attempt
-- [ ] ActivationRecord Spoofing
-- [ ] Setup.app Bypass Tests
-- [ ] Successful Boot Without Activation
+- [x] A12 Exploit Research (early stage)
+- [x] MobileGestalt Rebuild Attempt
+- [x] ActivationRecord Spoofing
+- [x] Setup.app Bypass Tests
+- [x] Successful Boot Without Activation
 - [ ] Full Documentation Writeup
 
 ---
